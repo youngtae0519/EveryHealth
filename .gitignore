@@ -35,3 +35,13 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### macOS ###
+.DS_Store
+
+### 로컬 전용 파일 ###
+crud-analysis.txt
+application-local.yml
+application-local.yaml
+.env
+.env.local
